@@ -12,6 +12,7 @@ numpy = "^1.22.3"
 templateflow = "^0.8.1"
 PyPDF2 = "^1.27.12"
 nilearn = "^0.9.1"
+sdcflows = "^2.2.2"
 
 [tool.poetry.dev-dependencies]
 
